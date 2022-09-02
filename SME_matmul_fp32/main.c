@@ -1,5 +1,5 @@
 //------------------------------------------------------------------------------------
-// Matrix multiplication code adapted from the SME programming example provided
+// Matrix multiplication code adapted from an SME programming example provided
 // by Arm Ltd.
 //
 // Assumptions :
